@@ -7,9 +7,9 @@
 - The purpose of this document is to help you go from writing to publishing your manuscript. These formats are foundational for print on demand, digital publishing, or ePub conversion.
 - You will publish your manscript when sending it for review, submitting it to a publisher, or to ciculate for editing. StoryLine focuses on the structure, craft, and workflow of your writing primarily.
 
-## Compatibility
+## Compatibility With Distribution
 
-StoryLine can create simple PDF, Markdown, Microsoft, and HTML exports. When publishing your Manuscript choose `Content` type "Manuscript (scene text order)" from export window. If in doubt, give a Microsoft Word document to your publisher.
+StoryLine can create simple PDF, Markdown, Microsoft, and HTML exports. When publishing your Manuscript choose `Content` type "Manuscript (scene text order)" from export window. If in doubt, give a Microsoft Word document to your publisher or literary agent.
 
 - If you already publish with [Pandoc](https://pandoc.org/MANUAL.html), export first to Markdown. Add your Pandoc specific front matter to the exported file. Compile on the command line. 
 - If you already publish with [Lightning Source](https://www.lightningsourceus.com/) print-on-demand. Export from StoryLine as Microsoft Word. Format then export to PDF. Open in Adobe PDF to add cover properly sized spine for the number of pages. https://www.ingramcontent.com/publishers-page/print-on-demand-faqs 
